@@ -82,3 +82,29 @@ An *E-Commerce Web Application* for **Artisans**.
 </table>
 
 
+---
+
+## Screenshots :framed_picture:
+
+<table>
+  <tr>
+    <td><img src="https://github.com/kiruba-r11/ArtiZone-iTech_HackFest/blob/main/Screenshots/Lander.png"/></td>
+    <td><img src="https://github.com/kiruba-r11/ArtiZone-iTech_HackFest/blob/main/Screenshots/Products_1.png"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/kiruba-r11/ArtiZone-iTech_HackFest/blob/main/Screenshots/Product_Details.png"/></td>
+    <td><img src="https://github.com/kiruba-r11/ArtiZone-iTech_HackFest/blob/main/Screenshots/Sign_In.png"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/kiruba-r11/ArtiZone-iTech_HackFest/blob/main/Screenshots/Sign_Up.png"/></td>
+    <td><img src="https://github.com/kiruba-r11/ArtiZone-iTech_HackFest/blob/main/Screenshots/Cart.png"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/kiruba-r11/ArtiZone-iTech_HackFest/blob/main/Screenshots/Order_Summary.png"/></td>
+    <td><img src="https://github.com/kiruba-r11/ArtiZone-iTech_HackFest/blob/main/Screenshots/Shipping_Details.png"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/kiruba-r11/ArtiZone-iTech_HackFest/blob/main/Screenshots/Payment_Method.png"/></td>
+    <td><img src="https://github.com/kiruba-r11/ArtiZone-iTech_HackFest/blob/main/Screenshots/Shippin_Tracking.png"/></td>
+  </tr>
+</table>
