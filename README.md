@@ -88,23 +88,53 @@ An *E-Commerce Web Application* for **Artisans**.
 
 <table>
   <tr>
-    <td><img src="https://github.com/kiruba-r11/ArtiZone-iTech_HackFest/blob/main/Screenshots/Lander.png"/></td>
-    <td><img src="https://github.com/kiruba-r11/ArtiZone-iTech_HackFest/blob/main/Screenshots/Products_1.png"/></td>
+    <td>
+     <h4 align="center">Lander Page</h4>
+     <img src="https://github.com/kiruba-r11/ArtiZone-iTech_HackFest/blob/main/Screenshots/Lander.png"/>
+    </td>
+    <td>
+     <h4 align="center">Products Page</h4>
+     <img src="https://github.com/kiruba-r11/ArtiZone-iTech_HackFest/blob/main/Screenshots/Products_1.png"/>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/kiruba-r11/ArtiZone-iTech_HackFest/blob/main/Screenshots/Product_Details.png"/></td>
-    <td><img src="https://github.com/kiruba-r11/ArtiZone-iTech_HackFest/blob/main/Screenshots/Sign_In.png"/></td>
+    <td>
+     <h4 align="center">Products Details</h4>
+     <img src="https://github.com/kiruba-r11/ArtiZone-iTech_HackFest/blob/main/Screenshots/Product_Details.png"/>
+    </td>
+    <td>
+     <h4 align="center">Sign In Page</h4>
+     <img src="https://github.com/kiruba-r11/ArtiZone-iTech_HackFest/blob/main/Screenshots/Sign_In.png"/>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/kiruba-r11/ArtiZone-iTech_HackFest/blob/main/Screenshots/Sign_Up.png"/></td>
-    <td><img src="https://github.com/kiruba-r11/ArtiZone-iTech_HackFest/blob/main/Screenshots/Cart.png"/></td>
+    <td>
+     <h4 align="center">Sign Up Page</h4>
+     <img src="https://github.com/kiruba-r11/ArtiZone-iTech_HackFest/blob/main/Screenshots/Sign_Up.png"/>
+    </td>
+    <td>
+     <h4 align="center">Cart Page</h4>
+     <img src="https://github.com/kiruba-r11/ArtiZone-iTech_HackFest/blob/main/Screenshots/Cart.png"/>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/kiruba-r11/ArtiZone-iTech_HackFest/blob/main/Screenshots/Order_Summary.png"/></td>
-    <td><img src="https://github.com/kiruba-r11/ArtiZone-iTech_HackFest/blob/main/Screenshots/Shipping_Details.png"/></td>
+    <td>
+     <h4 align="center">Order Summary</h4>
+     <img src="https://github.com/kiruba-r11/ArtiZone-iTech_HackFest/blob/main/Screenshots/Order_Summary.png"/>
+    </td>
+    <td>
+     <h4 align="center">Shipping Details</h4>
+     <img src="https://github.com/kiruba-r11/ArtiZone-iTech_HackFest/blob/main/Screenshots/Shipping_Details.png"/>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/kiruba-r11/ArtiZone-iTech_HackFest/blob/main/Screenshots/Payment_Method.png"/></td>
-    <td><img src="https://github.com/kiruba-r11/ArtiZone-iTech_HackFest/blob/main/Screenshots/Shippin_Tracking.png"/></td>
+    <td>
+     <h4 align="center">Payment Method</h4>
+     <img src="https://github.com/kiruba-r11/ArtiZone-iTech_HackFest/blob/main/Screenshots/Payment_Method.png"/>
+    </td>
+    <td>
+     <h4 align="center">Shipping Tracking</h4>
+     <img src="https://github.com/kiruba-r11/ArtiZone-iTech_HackFest/blob/main/Screenshots/Shippin_Tracking.png"/>
+    </td>
   </tr>
 </table>
