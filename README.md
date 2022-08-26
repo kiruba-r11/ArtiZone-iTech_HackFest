@@ -22,7 +22,26 @@ An *E-Commerce Web Application* for **Artisans**.
 
 ---
 
-## Tech Stack
+## Abstract :scroll:
+
+- *Artisans* mostly work in a `traditional unorganised sector` in which they are `vulnerable` to `exploitation and low wages`.
+
+
+- We aim at improving the condition of our country's *Artisans* by enabling them to `sell their products on our website`. 
+
+
+- We provide a `user-friendly interface` which requires `no prior knowledge of technology` so that the artisan can easily upload their product details.
+
+
+- The end user can choose from a wide range of products. On purchase of a product, the Artisan receives the order and ships it via courier. 
+
+
+- The package is delivered to the user's doorstep with ease. This encourages indigenous art work and also showcases the `talents of Indian Artisans`.
+
+
+---
+
+## Tech Stack :technologist:
 
 <table>
   <tr>
@@ -53,7 +72,7 @@ An *E-Commerce Web Application* for **Artisans**.
 
 ---
 
-## Flow Chart
+## Flow Chart :recycle:
 
 <img width="422" src="https://user-images.githubusercontent.com/76843281/186945558-9031a133-6a00-41ac-84a7-208fe739edbe.png">
 
