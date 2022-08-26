@@ -74,6 +74,11 @@ An *E-Commerce Web Application* for **Artisans**.
 
 ## Flow Chart :recycle:
 
-<img width="422" src="https://user-images.githubusercontent.com/76843281/186945558-9031a133-6a00-41ac-84a7-208fe739edbe.png">
+<table>
+  <tr>
+    <td> <img src="https://user-images.githubusercontent.com/76843281/186945558-9031a133-6a00-41ac-84a7-208fe739edbe.png"> </td>
+    <td> <img src="https://github.com/kiruba-r11/ArtiZone-iTech_HackFest/blob/main/Flow%20Charts/WireFrame.jpeg"/> </td>
+  </tr>
+</table>
 
 
